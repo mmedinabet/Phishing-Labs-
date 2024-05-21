@@ -119,4 +119,13 @@ Answer the following questions:
 ![Screenshot 2024-05-21 4 31 56 PM](https://github.com/mmedinabet/Phishing-Labs-/assets/142737434/475012ce-ee1e-4764-897e-7b6c4cc91fa3)
 
    Answer: CVE-2017–11882
-   
+
+<h1> Conclusion </h1>
+
+In conclusion, the comprehensive analysis of suspicious emails and malicious attachments in this lab has provided valuable insights for SOC analysts. Through thorough examination of email headers, message bodies, and attachment analysis reports, significant indicators of phishing attempts and potential security threats have been identified.
+
+The analysis of suspicious emails revealed attempts to impersonate well-known brands like Netflix, utilizing tactics such as defanged URLs to obscure malicious links. Further investigation uncovered originating IPs, domains of interest, and shortened URLs, aiding in the understanding of potential attack vectors and threat actors' tactics.
+
+Moreover, the examination of malicious attachments using tools like Any Run showcased their classification and provided crucial details such as file names, SHA 256 hashes, and indicators of compromise like malicious IP addresses and flagged Windows processes. Notably, vulnerabilities targeted by malicious attachments, such as CVE-2017–11882, were identified, highlighting the importance of timely patching and security awareness.
+
+By leveraging these findings, SOC analysts can enhance their defense mechanisms, implement appropriate rules, and mitigate security risks effectively. Continuous monitoring and analysis of email communications and attachments remain vital in safeguarding organizational assets against evolving threats in the cybersecurity landscape.   
