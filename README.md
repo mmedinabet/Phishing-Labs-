@@ -46,6 +46,11 @@ Answer the following questions:
 <h1> Scenario 2: Malicious Attachment Analysis </h1>
 
 Access the provided link to Any Run for the analysis of a malicious attachment.
+
+![Screenshot 2024-05-21 4 05 38 PM](https://github.com/mmedinabet/Phishing-Labs-/assets/142737434/4da9a427-ee9d-45a0-8450-7c7bb7f1ef6a)
+
+![Screenshot 2024-05-21 4 05 59 PM](https://github.com/mmedinabet/Phishing-Labs-/assets/142737434/33c11c35-b8c9-4231-a330-e73c3163c51e)
+
 Review the analysis report provided by Any Run.
 
 Answer the following questions:
@@ -64,9 +69,13 @@ Answer the following questions:
    
 4. What IP addresses are listed as malicious? Defang the IP addresses &
 
+![Screenshot 2024-05-21 4 16 55 PM](https://github.com/mmedinabet/Phishing-Labs-/assets/142737434/11dbe10a-3f31-47bd-aaec-ac7d404eb759)
+
    Answer: 2[.]16[.]107[.]24,2[.]16[.]107[.]83
 
 5. What Windows process was flagged as Potentially Bad Traffic?
+
+![Screenshot 2024-05-21 4 17 46 PM](https://github.com/mmedinabet/Phishing-Labs-/assets/142737434/2c911b06-b831-4d7c-9d01-02119b8cc298)
 
    Answer: svchost.exe
 
@@ -74,7 +83,12 @@ Answer the following questions:
 <h1> Scenario 3: Malicious Attachment Analysis </h1>
 
 Access the provided link to Any Run for the analysis of another malicious attachment.
+
+![Screenshot 2024-05-21 4 28 56 PM](https://github.com/mmedinabet/Phishing-Labs-/assets/142737434/88867642-b7e3-4198-bbdb-f64731f6e9e1)
+
 Review the analysis report provided by Any Run.
+
+![Screenshot 2024-05-21 4 29 18 PM](https://github.com/mmedinabet/Phishing-Labs-/assets/142737434/1de8dfff-03a1-4ac7-a5ee-2d74ffb1eaa6)
 
 Answer the following questions:
 
@@ -92,6 +106,8 @@ Answer the following questions:
    
 7. What domains are listed as malicious? Defang the URLs & submit answers in alphabetical order.
 
+![Screenshot 2024-05-21 4 31 02 PM](https://github.com/mmedinabet/Phishing-Labs-/assets/142737434/37034cf8-f143-443c-9627-0cef6f6ed245)
+
    Answer: biz9holdings[.]com, findresults[.]site, ww38[.]findresults[.]site
    
 9. What IP addresses are listed as malicious? Defang the IP addresses & submit answers from lowest to highest.
@@ -99,6 +115,8 @@ Answer the following questions:
    Answer: 75[.]2[.]11[.]242, 103[.]224[.]182[.]251, 204[.]11[.]56[.]48
    
 11. What vulnerability does this malicious attachment attempt to exploit?
+
+![Screenshot 2024-05-21 4 31 56 PM](https://github.com/mmedinabet/Phishing-Labs-/assets/142737434/475012ce-ee1e-4764-897e-7b6c4cc91fa3)
 
    Answer: CVE-2017–11882
    
